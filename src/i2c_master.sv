@@ -3,7 +3,6 @@
     created by: Sam Deutrom
     date last modified: 05/04/23
 */
-
 //import uart_tx_pkg::*;
 
 module i2c_master
