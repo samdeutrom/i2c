@@ -1,0 +1,56 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Sam/Documents/FPGA/i2c/sim/modelSim
+vi2c_master
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1680686571
+!i10b 1
+!s100 ]`OQP@bD[T4N8gbn=LYOg3
+IKE0[5fhgCCaV[A3QG9VB:0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 i2c_master_sv_unit
+S1
+R0
+w1680686567
+8../../src/i2c_master.sv
+F../../src/i2c_master.sv
+L0 9
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1680686571.000000
+Z6 !s107 ../i2c_master_tb.sv|../../src/i2c_master.sv|
+Z7 !s90 -reportprogress|300|-f|files.tcl|
+!i113 1
+Z8 tCvgOpt 0
+vi2c_master_tb
+R1
+R2
+!i10b 1
+!s100 >m?[>6<Q[H_Lc>?Q[87P_2
+I[N8M=X<[jPY7alI_LC?ag0
+R3
+!s105 i2c_master_tb_sv_unit
+S1
+R0
+w1680686413
+8../i2c_master_tb.sv
+F../i2c_master_tb.sv
+L0 7
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
